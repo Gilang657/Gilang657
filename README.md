@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">M. Gilang Alghipari</h1>
-  <h3 align="center">Information Systems Student • Full-Stack Developer • AI Enthusiast</h3>
+  <h3 align="center">• AI Enthusiast</h3>
   
   <br/>
 
@@ -19,7 +19,7 @@
 
 ## About Me
 
-I am a **1st Semester Information Systems Student** at **STMIK IKMI Cirebon** with a strong focus on Full-Stack Web Development. I build applications that prioritize user experience, performance, and scalability.
+I build applications that prioritize user experience, performance, and scalability.
 
 Currently, I am expanding my expertise in **AI Integration** and **Prompt Engineering**, believing that AI is the catalyst for the next generation of software.
 
